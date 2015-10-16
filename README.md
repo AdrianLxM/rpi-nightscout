@@ -39,7 +39,7 @@ necessary rpi-mongo database image.
 
 ## Modify your API Key
 It is recommended that you add your own API Key. This key has to be entered into your Uploader Application.
-If you are using a Medtronic Pump, than you are using [this](https://github.com/arbox0/MedtronicUploader) application.
+If you are using a Medtronic Pump, then you are using [this](https://github.com/arbox0/MedtronicUploader) application.
 You can edit your API Key by using e.g. nano editor
 ```
 cd rpi-nightscout
